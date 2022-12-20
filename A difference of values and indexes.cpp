@@ -1,5 +1,10 @@
 // https://practice.geeksforgeeks.org/problems/a-difference-of-values-and-indexes0302/1
 
+/*
+Time Complexity :- O(n);=
+Space Complexity :- O(1)
+*/
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
