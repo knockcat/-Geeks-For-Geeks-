@@ -1,5 +1,6 @@
 
 // 	Time Complexity -> O(N * log(N))
+//      Space Complexity -> O(N) auxilliary space for answer
 static bool canSwap(string& a, string& b)
     {
           string f = a + b;
